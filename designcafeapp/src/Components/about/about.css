@@ -1,0 +1,14 @@
+.dc_about h1{
+    font-family: var(--font-family);
+    font-weight: 800;
+    line-height: 75px;
+    font-size: 62px;
+}
+.dc_about p{
+    font-family: var(--font-family);
+    font-size: 20px;
+    font-weight: 350;
+    line-height:32px;
+    color: var(--color-text);
+    margin-top: 1.5rem;
+}
